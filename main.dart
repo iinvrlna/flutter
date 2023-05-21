@@ -34,21 +34,21 @@ class MyApp extends StatelessWidget {
               leading: Icon(Icons.directions_car),
               title: Text('GoCar'),
               onTap: () {
-                // Aksi saat tombol Car diklik
+                // Aksi saat tombol GoCar diklik
               },
             ),
             ListTile(
               leading: Icon(Icons.motorcycle),
               title: Text('GoRide'),
               onTap: () {
-                // Aksi saat tombol Motorcycle diklik
+                // Aksi saat tombol GoRide diklik
               },
             ),
             ListTile(
               leading: Icon(Icons.food_bank),
               title: Text('GoFood'),
               onTap: () {
-                // Aksi saat tombol Shopping diklik
+                // Aksi saat tombol GoFood diklik
               },
             ),
           ],
